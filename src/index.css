@@ -149,7 +149,7 @@ header{
 .about-me-card {
   background-color: white;
   max-width: 600px;
-  height: 600px;
+  min-height: 600px;
   margin: 0 2rem 5rem;
   padding: 2rem;
   line-height: 1.75rem;

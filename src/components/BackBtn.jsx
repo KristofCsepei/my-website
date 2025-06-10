@@ -18,7 +18,7 @@ export default function BackBtn(){
             style={{display: isHidden ? "none" : "block"}}
             onClick={()=>window.scrollTo({top: 0, behavior:"smooth"})}
         >
-            ⮝
+            ⬆
         </button>
     )
 }
