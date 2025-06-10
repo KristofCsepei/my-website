@@ -1,0 +1,1 @@
+This is based on Scrimba's Tenzies dice game created during Bob Ziroll's Basic React course. Completely remade on my own and added some improvements such as dots on dice, timer, and roll count.
